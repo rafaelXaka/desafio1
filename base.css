@@ -1,0 +1,39 @@
+.corpo {
+    largura :  1200 px ;
+    exibição : flexível;
+    margem :  0 auto;
+    cor de fundo :  água-marinha ;
+    cor de fundo :  rgb ( 18 , 156 , 5 ) ;  
+}
+. principal {
+    exibição : flexível;
+    flex-flow : coluna;
+    largura : 85 % ; 
+    largura : 90 % ;
+}
+. menu {
+    largura :  15 % ;
+    cor de fundo :  aqua ;
+    largura :  10 % ;
+    cor de fundo :  rgb ( 18 , 156 , 5 ) ;  
+    preenchimento :  10 px  20 px  0 px ;
+}
+. cabeçalho {
+    cor de fundo :  rgb ( 5 ,  108 ,  108 );
+    altura mínima :  150 px ;
+    cor de fundo :  rgb ( 18 ,  156 ,  5 );
+    altura mínima :  160 px ;
+    sombra-texto :  2 px  2 px  4 px  rgb ( 0 ,  0 ,  0 );
+}
+. contente {
+    cor de fundo :  branco ;
+    cor de fundo :  # 39b7ff ;
+    altura mínima :  300 px ;
+    preenchimento :  20 px ;
+    text - shadow :  2px  2px 4px  rgba  ( 255 , 255 , 255 , 0.5 ) ;   
+}
+. rodapé {
+    cor de fundo :  rgb ( 99 , 56 , 240 ) ;  
+    cor de fundo :  # 39b7ff ;
+    altura mínima :  150 px ;
+}
